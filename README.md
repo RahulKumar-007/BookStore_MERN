@@ -71,7 +71,7 @@ Before diving into the project, ensure you have the following prerequisites inst
    npm run dev
    ```
 
-3. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to access the book store application.
+3. Open your browser and navigate to generated localhost to access the book store application.
 
 ## Contributing
 Contributions are welcome! Feel free to open issues or pull requests for any improvements, bug fixes, or additional features.
